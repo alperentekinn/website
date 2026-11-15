@@ -1,0 +1,3 @@
+# Setting for GitHub Pages: do not publish the editing notes as a web page.
+exclude:
+  - README.md
